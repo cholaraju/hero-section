@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import Header from "@/components/header";
 import Spline from "@splinetool/react-spline";
 import Section from "@/components/section";
